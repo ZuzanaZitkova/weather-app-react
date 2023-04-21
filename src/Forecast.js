@@ -66,6 +66,18 @@ export default function Weather() {
           />
           <input id="button" type="submit" value="search" />
         </form>
+        <footer>
+          <p>
+            This webside was coded by Zuzana Zitkova and is open sourced on{' '}
+            <a
+              href="https://github.com/ZuzanaZitkova/weather-app-react"
+              target="_blank"
+              rel="noreferrer"
+            >
+              github
+            </a>{' '}
+          </p>
+        </footer>
       </div>
     );
   }
