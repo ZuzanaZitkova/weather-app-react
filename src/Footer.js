@@ -3,7 +3,7 @@ import './App.css';
 
 export default function Footer() {
   return (
-    <div>
+    <div className="Footer">
       {' '}
       <p>
         This webside was coded by Zuzana Zitkova and is open sourced on{' '}
