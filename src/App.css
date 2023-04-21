@@ -16,3 +16,25 @@
 .App-link {
   color: #61dafb;
 }
+.list {
+  text-align: center;
+  list-style: none;
+  font-family: monospace;
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 3;
+}
+form {
+  margin-left: 35%;
+}
+input {
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+  margin: 20px;
+}
+
+.Forecast {
+  text-align: center;
+}
